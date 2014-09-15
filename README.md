@@ -5,8 +5,8 @@ Julia Notes
 [julialang.org/](http://julialang.org/)
 
 ####Install IJulia####
-`Pkg.add("IJulia")'
-`Pkg.add("PyPlot")'
+`Pkg.add("IJulia")`
+`Pkg.add("PyPlot")`
 
 ####Run####
 `ipython notebook --profile julia`
