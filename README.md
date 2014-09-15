@@ -6,6 +6,7 @@ Julia Notes
 
 ####Install IJulia####
 `Pkg.add("IJulia")`
+
 `Pkg.add("PyPlot")`
 
 ####Run####
