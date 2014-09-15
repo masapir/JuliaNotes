@@ -9,4 +9,4 @@ Julia Notes
 
 ####Notebook Viewer####
 
-(nbviewer.ipython.org/)
+[NB Viewer](nbviewer.ipython.org/)
